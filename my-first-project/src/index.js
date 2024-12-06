@@ -1,3 +1,4 @@
+# Main source file
 function add(a, b) {
   return a + b;
 }
